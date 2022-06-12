@@ -1,20 +1,17 @@
 extends KinematicBody2D
 
-var vel = Vector2()
-var speed = 2
 
-func _physics_process(delta):
-	
-	if Input.is_action_pressed("ui_up"):
-		vel.y -= speed
-	elif Input.is_action_pressed("ui_down"):
-		vel.y += speed
-	elif Input.is_action_pressed("ui_left"):
-		vel.x -= speed
-	elif Input.is_action_pressed("ui_right"):
-		vel.x += speed
-	else:
-		vel.x = 0
-		vel.y = 0
-		
-	vel = move_and_slide(vel)
+var inputs = {
+	'ui_up': Vector2.UP,
+	'ui_down': Vector2.DOWN,
+	'ui_left': Vector2.LEFT,
+	'ui_right': Vector2.RIGHT
+}
+
+func _unhandled_input(event):
+	for dir in inputs.keys():
+		if event.is_action_pressed(dir):
+			move(dir)
+
+func move(dir):
+	position += inputs[dir] * 16
