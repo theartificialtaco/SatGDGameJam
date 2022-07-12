@@ -1,4 +1,4 @@
-extends KinematicBody2D
+extends Area2D
 
 onready var ray = $RayCast2D
 var gridsize = 16
@@ -20,3 +20,5 @@ func move(dir):
 	ray.force_raycast_update()
 	if !ray.is_colliding():
 		position += vectorpos
+
+
