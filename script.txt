@@ -1,0 +1,253 @@
+road-blocks
+battles
+
+
+
+CHARACTERS:
+1. professor aam gachh
+2. female parent
+3. gym duuuude
+4. team - grunt
+5. team - leader zucc
+6. league gate guy
+7. champion
+8. nurse JOY
+
+HUMANS:
+1. starter
+2. route 1 dude - catch
+3. gym
+4. ghost
+5. champion
+
+"ALL THE TEXT IN THIS GAME IS TRANSLATED"
+"NO ONE SPEAKS WHATEVER LANGUAGE YOU SPEAK HERE"
+CHARACTER DIALOGUE:
+
+female parent:
+
+if "noob":
+"Good morning, child.",
+"I am your mother.",
+"Looks like Professor আম গাছ smuggled in some new pokemAn today.",
+"You may or may not want to go talk to him if you want one.",
+"His lab is...",
+"somewhere."
+
+if "pokemon":
+"Good morning, child.",
+"I am your mother.",
+"Looks like you got one of those fresh pokemAn the professor smuggled in.".
+"I hope this doesn't take your mind off your studies."
+
+if "gym" or anything after:
+"Good morning, child.",
+"I am your mother.",
+"Oh so you got a gym badge, eh?",
+"Come back when you have an A on your report card."
+
+if "legendary":
+"Good morning, child.",
+"I am your mother.",
+"Huh?? What is that huge pokemAn doing in here?",
+"YOU CAUGHT MORE POKEMAN?",
+"I only cook enough food for three people.",
+"Now I have to cook more. :("
+
+if "champion":
+"Good morning, child.",
+"I am your mother.",
+"You are champion now huh?",
+"Come back when you start earning money.",
+"~you and your pokemAn~"
+
+professor আম গাছ:
+
+if "noob":
+"hello there"
+"are you an angel?"
+"wait give me a second. where are my glasses?"
+"i cannot see."
+"* professor আম গাছ proceeds to look for his glasses. he can't find them and decides to give up *"
+"who said i needed glasses anyway. my sight is as clear as the plot of TENET."
+"so angel, what brings you here? would you like to take this pokemAn i smuggled in last night?"
+"..."
+"not much of a talker are you?"
+"just take it. i really don't want it to end up in the trash."
+"there are dangerous lizard people out there. be careful."
+"* POKEMAN ACQUIRED *"
+
+if "pokemon" or anything before champion:
+"* he's sleeping with his eyes open *"
+"* no wonder he needs glasses *"
+
+if "champion":
+"* he seems to have his glasses on *
+"who are you?"
+"wait aren't you URMOM's kid?"
+"how's it going?"
+"..."
+"i gave you a pokemAn?"
+"nope i'd never do that. you're still way too young."
+"..."
+"what angel? i don't believe in such things."
+"if you would excuse me, i have some anime to binge-watch. i'll see you later"
+
+if "champion" part 2:
+"if you would excuse me, i have some anime to binge-watch. i'll see you later"
+"* he's staring at his phone but it doesn't seem to be displaying anything *"
+
+gym duude:
+
+if "pokemon":
+"YOOOOO DUUUUDE! WELCOME TO THE GYMMM"
+"MY NAME'S OSWALD BUT THE GAANG JUST CALLS ME..."
+"GYM DUUDE."
+"AAAANYWAYS MY MAN, LOOKS LIKE YOU WANNA CHALLENGE ME."
+"I SPECIALISE IN ROCK TYPE POKEMAN."
+"WHY ROCK? 'CAUSE ROCK AND ROOOOOOLLL BAABBY"
+
+if "gym":
+"HELL YEAAHHH MAN. YOU BEAT ME"
+"HERE'S YOUR GYYYM BADGE LITTLE DUUDE"
+"* ROCK N ROLL BADGE ACQUIRED *"
+
+if "tower":
+"YOOO YOU TOOK ALL THOSE GUYS DOWN YOURSELF?"
+"MAN, YOU'RE GOING PLACES"
+"ANYWAYS DUDE, YOU'RE GONNA NEED THIS."
+"IT'S TIME TO SURF N TURF MY GUY"
+"* SURF ACQUIRED *"
+"USE THIS AND YOU'LL BE WALKING ON WATER IN NO TIME, LITTLE MAN."
+"ADIOS."
+
+if "tower" part 2:
+"SURF'S PRETTY CHILL"
+"MAYBE YOU SHOULD LIKE USE IT OR SOMETHING, LITTLE DUUUDE."
+
+nurse joy
+
+"Hello. Welcome to the pokemAn center."
+"Your pokemAn look like they need healing."
+"Let me just put them in this totally not suspicious machine that heals everything everywhere all at once."
+"While that's happening, would you like to talk about life?"
+"You see, the thing is life is like this game - small and sad."
+"That's why, always remember do a lesser load of work in a greater span of time..."
+"because from no power comes zero responsibilities. Life doesn't like responsibilities."
+"I believe Gandhi said that."
+"..."
+"Anyways, looks like your pokemAn are done cooking. Goodbye"
+"* COOKED POKEMAN FROM THE SUSPICIOUS MACHINE ACQUIRED *"
+
+pokemon league gate guy:
+
+"'ello mate."
+"looks like you ain't doin' much, innit?"
+"we can't let no nobody in there, bruv"
+"without a reason, yah see"
+"you betta get goin' with the rest of the game, boy"
+
+town sign:
+
+"* it has a baguette spray painted on it *"
+"* but you can make out some words *"
+"'Welcom- -- ----- Town'"
+"'--- only ---- -- world's smalles- regio-'"
+
+route 1 sign
+
+"'TRAINER TIP:'"
+****** FIGURE THIS OUT *******
+...
+"* it has a cool drippy water bucket grafiti'd on one side *"
+
+
+tower sign
+"TOWER - yEAST"
+"* this seems to be unhelpful *"
+
+league sign:
+"'Be wary of PokemAn League'"
+
+cave sign:
+"'ever thought of some alternate universe where pokemAn are the people and we are the pokemAn?'"
+"'welp me neither'"
+"'but think about it, someone could make a giant multibillion dollar franchise out of this'"
+
+grass blocker:
+"ummmmmm i don't think you're supposed to like go there just yet"
+"maybe listen to URMOM or something and don't end up like a disappointment like me"
+"no one's sole purpose should be to tell the protagonist to follow a certain path"
+
+team grunt:
+
+"* this guy's whispering something into a walkie-talkie *"
+"* he notices you *"
+"* pretends to not notice you and goes back to having a delightful conversation with the walkie-talkie *"
+
+team leader:
+
+before battle:
+"hELLO tRESPASSER"
+"i aM wHOMST tHEY cALL tHE zUCC"
+"i aM tHE lEADER oF tHE lIZARD cLAN"
+"hOWEVER i mUST nOW dEFEAT yOU"
+
+after battle:
+"hOW? hOW? hOW cOULD i lOSE?"
+"hOW cOULD i, zUCC oF tHE lIZARD cLAN, kNOWN tO mY cOLLEAGUES aS tHE bIG bOSS, lOSE?"
+"mY dECADES oF tRAINING, rUINED bY a tRAINER wITH nO mORE tHAN 2 mINUTES oF eXPERIENCE"
+"mY pLAN tO cREATE a nEW wORLD hAS bEEN dESTROYED"
+"tHE lIZARD-kIND sHALL nEVER fORGIVE mE"
+"mY fAMILY wILL nEVER lOOK aT mE tHE sAME wAY"
+"i aM dONE"
+"* hearing this, there's only one thing you can think about *"
+"* 'hi dONE i'm dad *"
+"i gUESS i'LL gO bACK tO bEING tHE pOKEMAN cENTER'S aCCOUNTANT"
+
+champion:
+
+"Howwwdy pardnerrr"
+"You look like you've come to baddle me"
+"But let me just reasho' you, I ain't easy to beat"
+"Either I win and stay the champyun, like I always do"
+"or YOU SAY GOODBA' TO YO LIFE"
+
+after battle:
+"Wowie, you really did it theya pal, ain't ya?"
+"Heya's ma champyun's crown. You can keep it"
+"Now, you can go outsaad and go talk to the folks who got ya here"
+"But don ya forget to come back heya and become the oh-fishy-all champyun"
+
+if back:
+"Howwdy pal. Looks like yerr back"
+"Now go up these liddle staya's and place yerr pokemAn balls on the table thingamajig up theya."
+
+
+
+POKEMAN SOUNDS TTS:
+
+
+fire type starter 
+"help i am burning"
+
+water type wild pokemon 
+"bada bing bada boom"
+
+gym duuuude pokemon:
+"yoooooooooooo it's battling time maaaan"
+
+ghost type pokemon:
+"good luck, skeleton"
+
+zucc pokemon - totally not lizard man (metapod?)
+"why waste time say lot word, when few word do trick?"
+
+legendary pokemon - 
+"if pokemon can be inanimate objects, the creatures here can be too"
+"tasting salt is the superior substance"
+"em es jee is the king of flavour haiyaa"
+"remember kids, consistency is a lie"
+
+champion pokemon 
+"holy heck retroarch is a nightmare to download and set up"
